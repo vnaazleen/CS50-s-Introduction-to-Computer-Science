@@ -27,3 +27,13 @@
 
 * [pset5](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset5)
   * [speller](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset5/speller)
+
+* [pset6](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6)
+  * [dna](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/dna)
+  * [cash](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset6/cash.py)
+  * [credit](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset6/credit.py)
+  * [hello](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset6/hello.py)
+  * [mario](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/mario)
+    * [less](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/mario/mario_less.py)
+    * [more](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/mario/mario_more.py)
+  * [readability](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset6/readability.py)
