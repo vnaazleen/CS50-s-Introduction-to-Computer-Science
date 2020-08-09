@@ -37,3 +37,7 @@
     * [less](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/mario/mario_less.py)
     * [more](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/mario/mario_more.py)
   * [readability](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset6/readability.py)
+
+  * [pset7](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7)
+    * [houses](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7/houses)
+    * [movies](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7/movies)
