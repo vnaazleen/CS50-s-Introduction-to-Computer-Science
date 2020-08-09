@@ -16,3 +16,7 @@
   * [ceaser](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset2/ceaser.c)
   * [readability](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset2/readability.c)
   * [substitution](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset2/substitution.c)
+
+* [pset3](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset3)
+  * [plurality](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset3/plurality.c)
+  * [runoff](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset3/runoff.c)
