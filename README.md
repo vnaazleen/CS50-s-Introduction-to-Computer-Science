@@ -1,7 +1,6 @@
 # CS50-s-Introduction-to-Computer-Science
 
-![cs50](https://user-images.githubusercontent.com/54474853/89726751-c1f1db00-da3b-11ea-8a6a-79397a9e3986.jpg)
-
+![cs50](https://user-images.githubusercontent.com/54474853/89726788-214feb00-da3c-11ea-94e4-d504bf45e76b.jpg)
 
 ## Table of Contents
 
@@ -41,6 +40,6 @@
     * [more](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset6/mario/mario_more.py)
   * [readability](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset6/readability.py)
 
-  * [pset7](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7)
+* [pset7](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7)
     * [houses](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7/houses)
     * [movies](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset7/movies)
