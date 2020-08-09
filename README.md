@@ -1,5 +1,8 @@
 # CS50-s-Introduction-to-Computer-Science
 
+![cs50](https://user-images.githubusercontent.com/54474853/89726751-c1f1db00-da3b-11ea-8a6a-79397a9e3986.jpg)
+
+
 ## Table of Contents
 
 ### Problem Sets
