@@ -20,3 +20,7 @@
 * [pset3](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset3)
   * [plurality](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset3/plurality.c)
   * [runoff](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/blob/master/pset3/runoff.c)
+
+* [pset4](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset4)
+  * [filter](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset4/filter)
+  * [recover](https://github.com/Shaikvaseemnaazleen/CS50-s-Introduction-to-Computer-Science/tree/master/pset4/recover)
